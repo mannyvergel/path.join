@@ -1,5 +1,5 @@
 {
-  "name": "joinPath",
+  "name": "join.path",
   "version": "1.0.0",
   "description": "Function to join paths that always returns forward slashes (uniform for unix and windows). A replacement to path.join",
   "keywords": [
@@ -20,10 +20,10 @@
     "email": "manny@mvergel.com",
     "url": "http://www.mvergel.com/"
   },
-  "homepage": "https://github.com/mannyvergel/joinPath-js",
+  "homepage": "https://github.com/mannyvergel/path.join",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mannyvergel/joinPath-js.git"
+    "url": "https://github.com/mannyvergel/path.join"
   },
 
   "engines": {
