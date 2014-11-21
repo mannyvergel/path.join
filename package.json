@@ -7,7 +7,13 @@
     "path.join",
     "alternative",
     "uniform",
-    "forward slash"
+    "forward slash",
+    "path",
+    "join",
+    "windows",
+    "mac",
+    "unix",
+    "linux"
   ],
   "author": {
     "name": "Manny Vergel",
